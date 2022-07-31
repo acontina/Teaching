@@ -1,8 +1,8 @@
 # Teaching
 
-[Home](https://acontina.github.io/Research)  |  [Teaching](https://acontina.github.io/Teaching) |  [Contact](https://acontina.github.io/Research)
+[Home](https://acontina.github.io/Research)  |  [Teaching](https://acontina.github.io/Teaching)  |  [Contact](https://acontina.github.io/Research)
 
-## 2016-2018: Postdoctoral Teaching Fellow for the National Science Foundation – National Research Traineeship (NRT) Earth Observation Science for Society and Sustainability (EOS3) 
+## 2016-2018: Postdoctoral Teaching Fellow National Science Foundation – National Research Traineeship (NRT) Earth Observation Science for Society and Sustainability (EOS3) 
 The EOS3 was an interdisciplinary graduate program consisting of a four-course sequence offered at the University of Oklahoma. 
 The certificate emphasized integration of natural and social sciences approaches to data exploration and visualization while building student competency in interdisciplinary team leadership and communication. 
 
