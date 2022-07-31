@@ -1,4 +1,4 @@
-# Teaching
+# Courses taught over the years
 
 * [Home](https://acontina.github.io/Research)
 * [Publications](https://acontina.github.io/Publications)
