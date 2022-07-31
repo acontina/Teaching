@@ -1,8 +1,8 @@
 # Courses taught over the years
 
-* [Home](https://acontina.github.io/Research)
-* [Publications](https://acontina.github.io/Publications)
-* [Teaching](https://acontina.github.io/Teaching)
+* [Home](https://acontina.github.io/research)
+* [Publications](https://acontina.github.io/publications)
+* [Teaching](https://acontina.github.io/teaching)
 * [Contact](https://acontina.github.io/contact)
 
 ## 2016-2018: Earth Observation Science for Society and Sustainability (EOS3) 
