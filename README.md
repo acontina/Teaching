@@ -21,7 +21,7 @@ I developed and taught a brand new senior-level course at the University of Okla
 * 2017 Teaching Fellow; GRAD 5403: EOS3 Practicum
 * 2016 Teaching Fellow; GRAD 5103: Interdisciplinary EOS3
 * 2016 Teaching Fellow; GRAD 5203: EOS3 Data Analytics
-* 2015 Grad. Teaching Assistant; BIOL 3101: Principles of Physiology Lab
+* 2015 Grad. Teaching Assistant; BIOL 3101: Physiology Lab
 * 2014 Grad. Teaching Assistant; BIOL 1124: Intro Biology
 * 2013 Lecturer; BIOL 4970: Animal Movements and Disease Risk
 * 2012 Grad. Teaching Assistant; ZOOL 1124: Intro Biology
