@@ -1,8 +1,9 @@
 # Teaching
 
 * [Home](https://acontina.github.io/Research)
+* [Teaching](https://acontina.github.io/Pubs)
 * [Teaching](https://acontina.github.io/Teaching)
-* [Contact](https://acontina.github.io/contact)
+* [Contact](https://acontina.github.io/Research)
 
 ## 2016-2018: Earth Observation Science for Society and Sustainability (EOS3) 
 I served as Postdoctoral Teaching Fellow for the Earth Observation Science for Society and Sustainability (EOS3), an interdisciplinary graduate program sponsored by the National Science Foundation – National Research Traineeship (NRT) and consisting of a four-course sequence offered at the University of Oklahoma. The certificate emphasized integration of natural and social sciences approaches to data exploration and visualization while building student competency in interdisciplinary team leadership and communication. 
